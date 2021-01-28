@@ -1,4 +1,4 @@
-# Hello World
+# Spectrography
 This read me will serve as the introduction to the technical aspects of the project, including but not limited to
 
 -Data extraction
